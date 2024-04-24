@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "530614703948",
+    "project_id": "socialmedia-hpulxj",
+    "storage_bucket": "socialmedia-hpulxj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530614703948:android:f0ac7ef8044ccfc41fa1e9",
+        "android_client_info": {
+          "package_name": "com.flutterflow.sniffsocial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0JXQaQzt-uqrekOIF1iBlvDATAbNaZZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
